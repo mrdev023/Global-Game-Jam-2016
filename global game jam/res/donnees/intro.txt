@@ -1,0 +1,10 @@
+Le mage/#/Svenn, héritier des Eredan, l'heure est grave. Le Peuple des Ombres prépare un grand rassemblement dans le but/#/de nous reprendre leur magie. Les anciens sont prêts à défendre le valeureux peuple du Nord et avec lui le pont de Bifrost !/#/Malheureusement, nous ne tiendrons pas éternellement, et quelqu'un doit empêcher leur rituel d'arriver à son terme/#/Tu es le plus prometteur de tous mes disciples. Cette mission te revient de droit.
+Le mage/#/Tu vas avoir l'honneur de combattre pour les tiens. Tes compagnons d'étude ont insisté pour t'accompagner./#/Fais bon usage de tes connaissances, et que les Ases te protègent !
+Svenn/#/En avant camarades !
+Bjorn/#/Rien ne nous arrêtera !
+Jurgen/#/N'oubliez pas le but de notre mission, mes amis.
+Eskil/#/Nous devrions peut-être essayer de decouvrir des informations et ...
+Svenn/#/Vous en faites toujours trop ! Nous devons simplement les empêcher d'agir !
+Astrid/#/Tu devrais peut-être les écouter, nous pourrions éviter des situations dangereuses.
+Svenn/#/Tu as entendu le maître. Je suis bien plus puissant qu'eux, ils n'ont aucune chance !
+Bjorn/#/Arrêter de déblatérer, il me tarde de pouvoir me dégourdir !

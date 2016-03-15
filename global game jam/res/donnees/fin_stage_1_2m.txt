@@ -1,0 +1,9 @@
+Svenn/#/Deux de nos camarades... Deja... Combien d'atouts cachés ont-ils encore à leur disposition ...?
+Astrid/#/Je ne pensais pas que le risque était à ce point présent...
+Svenn/#/Quoi qu'il arrive, je te protègerai Astrid, je te le promet. Soyons plus prudents pour la suite.
+Astrid/#/Je crains que ce ne soit que le début...
+Eskil/#/N'avez-vous pas remarqué quelque chose d'étrange dans le comportement des soldats tout à l'heure ?
+Svenn/#/Que veux-tu dire par là ?
+Eskil/#/C'est étrange c'est comme si... Ils n'avaient pas l'intention de nous tuer.
+Svenn/#/Pourtant deux personnes sont mortes, et leurs intentions ne doivent pas être si pures que ça.
+Astrid/#/Continuons. Restez en place ne nous fera que prendre plus de risques.
